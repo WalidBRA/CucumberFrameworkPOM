@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Cucumber" time="4.243" tests="1" skipped="0" failures="0" errors="0">
-<testcase classname="Login to automation exercise Application" name="Login with valid credentials" time="4.08">
+<testsuite name="Cucumber" time="5.102" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Login to automation exercise Application" name="Login with valid credentials" time="4.973">
 <system-out><![CDATA[
 Given User is on automation exercise login page "https://www.automationexercise.com/login".passed
 When User enters username as "walidbra@outlook.com" and password as "123456789".passed
