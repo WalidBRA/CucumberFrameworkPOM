@@ -1,4 +1,4 @@
 package com.project.commonUtils;
 
-public class BaseClass {
+public class SeleniumMethods {
 }
